@@ -31,7 +31,7 @@ To get a local copy follow these simple example steps.
 8.- To see the code open the project in the code editor of your preference.  
 
 ## Server repo
-Get the server repo at [server]()
+Get the server repo at [server](https://github.com/VicPeralta/hello-rails-back-end)
 
 ## Author
 
