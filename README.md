@@ -27,7 +27,7 @@ To get a local copy follow these simple example steps.
 `npm run build`  
 5.- Start the server at `http://127.0.0.1:3100`   
 6.- Verify the availability of the endpoint 'http://127.0.0.1:3100/show.json'   
-7.- Run this command to see the page `npm start`  
+7.- Run  `npm start` and go to http://127.0.0.1:3000/hello   
 8.- To see the code open the project in the code editor of your preference.  
 
 ## Server repo
